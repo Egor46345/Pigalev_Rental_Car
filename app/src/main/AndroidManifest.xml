@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.shop">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Shop">
+        <activity
+            android:name=".UpdateUsers"
+            android:exported="false" />
+        <activity
+            android:name=".personal_booked"
+            android:exported="false" />
+        <activity
+            android:name=".booked"
+            android:exported="false" />
+        <activity
+            android:name=".booking_cars"
+            android:exported="false" />
+        <activity
+            android:name=".booked_cars"
+            android:exported="false" />
+        <activity
+            android:name=".base_data_car"
+            android:exported="false" />
+        <activity
+            android:name=".personal_area"
+            android:exported="false" />
+        <activity
+            android:name=".menu_Users"
+            android:exported="false" />
+        <activity
+            android:name=".users"
+            android:exported="false" />
+        <activity
+            android:name=".menu_base_data"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

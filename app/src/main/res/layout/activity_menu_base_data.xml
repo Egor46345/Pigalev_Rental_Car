@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".menu_base_data">
+
+    <TextView
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/administrator"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        app:layout_constraintBottom_toTopOf="@id/EditingCarBase"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:background="@drawable/logo_menu_base_data"
+        android:contentDescription="@string/logo"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/EditingCarBase"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/EditingBaseCars"
+        android:layout_margin="15dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:background="@drawable/batton_background"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/BookedCars"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/BookedCars"
+        android:layout_margin="15dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/EditingCarBase"
+        app:layout_constraintBottom_toTopOf="@id/EditingUsers"
+        android:background="@drawable/batton_background"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/EditingUsers"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/EditingUsers"
+        android:layout_margin="15dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/BookedCars"
+        android:background="@drawable/batton_background"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/Exit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/LogOutOfAccount"
+        android:layout_margin="15dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/EditingUsers"
+        android:background="@drawable/batton_background"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

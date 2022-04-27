@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Pigalev_Project/app/src/main/res/layout/activity_base_data_car.xml" value="0.25" />
+        <entry key="..\:/Pigalev_Project/app/src/main/res/layout/activity_booked.xml" value="0.2708333333333333" />
+        <entry key="..\:/Pigalev_Project/app/src/main/res/layout/activity_booked_cars.xml" value="0.25" />
+        <entry key="..\:/Pigalev_Project/app/src/main/res/layout/activity_booking_cars.xml" value="0.25" />
+        <entry key="..\:/Pigalev_Project/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Pigalev_Project/app/src/main/res/layout/activity_menu_base_data.xml" value="0.1" />
+        <entry key="..\:/Pigalev_Project/app/src/main/res/layout/activity_menu_users.xml" value="0.1" />
+        <entry key="..\:/Pigalev_Project/app/src/main/res/layout/activity_personal_area.xml" value="0.27291666666666664" />
+        <entry key="..\:/Pigalev_Project/app/src/main/res/layout/activity_personal_booked.xml" value="0.26403985507246375" />
+        <entry key="..\:/Pigalev_Project/app/src/main/res/layout/activity_update_users.xml" value="0.27291666666666664" />
+        <entry key="..\:/Pigalev_Project/app/src/main/res/layout/activity_users.xml" value="0.27291666666666664" />
+        <entry key="..\:/Project/app/src/main/res/drawable/batton_background.xml" value="0.209" />
+        <entry key="..\:/Project/app/src/main/res/layout/activity_base_data_car.xml" value="0.25" />
+        <entry key="..\:/Project/app/src/main/res/layout/activity_base_date_flights.xml" value="0.25" />
+        <entry key="..\:/Project/app/src/main/res/layout/activity_booked.xml" value="0.25" />
+        <entry key="..\:/Project/app/src/main/res/layout/activity_booked_cars.xml" value="0.25" />
+        <entry key="..\:/Project/app/src/main/res/layout/activity_booked_flights.xml" value="0.25" />
+        <entry key="..\:/Project/app/src/main/res/layout/activity_booking_cars.xml" value="0.25" />
+        <entry key="..\:/Project/app/src/main/res/layout/activity_booking_flights.xml" value="0.25" />
+        <entry key="..\:/Project/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Project/app/src/main/res/layout/activity_menu_base_data.xml" value="0.25" />
+        <entry key="..\:/Project/app/src/main/res/layout/activity_menu_users.xml" value="0.25" />
+        <entry key="..\:/Project/app/src/main/res/layout/activity_personal_area.xml" value="0.25" />
+        <entry key="..\:/Project/app/src/main/res/layout/activity_personal_booked.xml" value="0.25" />
+        <entry key="..\:/Project/app/src/main/res/layout/activity_users.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

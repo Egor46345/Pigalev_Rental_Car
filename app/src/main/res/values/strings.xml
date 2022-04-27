@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Прокат автомобилей</string>
+    <string name="heading">Автопарк проката автомобилей</string>
+    <string name="carBrand">Марка</string>
+    <string name="carModel">Модель</string>
+    <string name="price">Стоимость проката</string>
+    <string name="add">Добавить</string>
+    <string name="clear">Очистить</string>
+    <string name="authorization">Авторизироваться</string>
+    <string name="registration">Зарегистрироваться</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="EditingBaseCars">Редактирование базы автомобилей</string>
+    <string name="BookedCars">Забронированные автомобили</string>
+    <string name="EditingUsers">Редактирование пользователей</string>
+    <string name="LogOutOfAccount">Выйти из учётной записи</string>
+    <string name="YearRelease">Год выпуска</string>
+    <string name="ListBookedCars">Список забронированных автомобилей</string>
+    <string name="PersonalAccount">Личный кабинет</string>
+    <string name="BookCar">Забронировать автомобиль</string>
+    <string name="ListCarsAvailableForBooking">Список автомобилей доступных для бронирования</string>
+    <string name="CarBooking">Бронирование автомобиля</string>
+    <string name="AdditionalInformation">Дополнительная информация</string>
+    <string name="FIObooked">ФИО бронируемого</string>
+    <string name="ApproximateDuration">Примерная продолжительность</string>
+    <string name="Cancel">Отменить</string>
+    <string name="book">Забронировать</string>
+    <string name="exitMenu">Выйти в меню</string>
+    <string name="exit">Выйти</string>
+    <string name="save">Сохранить</string>
+    <string name="listUsers">Список пользователей</string>
+    <string name="delete">Удалить учётную запись</string>
+    <string name="updateDataUsers">Изменение данных пользователя</string>
+    <string name="administrator">Вы вошли как администратор</string>
+    <string name="logo">Логотип</string>
+</resources>
